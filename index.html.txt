@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Event invite</title>
+        <style>
+        Body{
+            background-color:gray;
+            border:1px solid black;
+            border-top:10px solid black;
+        }
+        
+        h1,h2,li{
+            color:yellow;
+        }
+        .love{
+            background-color:green;
+        }
+        #fire{
+            position:relative;
+            top:20px;
+             
+            
+        }
+            
+        </style>
+    </head>
+    <body>
+        
+        <h1>You're invited!</h1>
+        <h2>To something!</h2>
+        
+        <p class= "love">The details:</p>
+        <ul>
+            <li>Party</li>
+            <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/seasonal/fireworks-in-sky.png"id="fire" alt="This party will shine" width="205">
+            <p> You are invited to participaty to the party that is going to take place at 47 commercial street in Cape town, this party start in <strong>Thursday at 10h00 untill 12h00.</strong></p>
+            <li>Workshop</li>
+            <p> On <strong>Friday at 7h00 to 11h00</strong>, we will meet at 4h00 to 6h00 to evaluate the process of our organization and share <em>new policies</em> that will guide us for this 2025</P>
+            
+            <li>Wedding</li>
+    <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/seasonal/house-with-lights.png" alt="This wedding will happen in this house" width="203">
+            <p>We are all invited to participate to the wedding of our colleague <strong>Sarah</strong> that is going to take place this comming Saturday in the civic centre at 3h00 to 6h00, you will be collecting invitation to the manager</P>
+            <li>Church Service</li>
+            <p>For those who will like to participate to the church to show sympaty to sarah our colleague, the church is going to start <strong>Sunday at 08h00 to 10h00</strong></p>
+            <li>Meeting</li>
+            <p>I would like to invite you again for our meeting that is going to take place on <strong>Monday at 08h00 to 10h00</strong>.</p>
+ </ul>
+        <h3>Here, you may confirm your participation</h3>
+<button type="button" onclick="alert('Hello world!')">Click Me!</button>
+</body>
+</html>
