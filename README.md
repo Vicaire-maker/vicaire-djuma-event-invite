@@ -1,0 +1,1 @@
+# vicaire-djuma-event-invite
